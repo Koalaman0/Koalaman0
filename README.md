@@ -1,13 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=하나밀고%20들어가자&fontSize=50)
 
 
-<h1 align="center">Hi 👋, I'm Jiwon Lee</h1>
 
 <h3 align="center">
 Full Stack Developer | Java & Spring Boot | React
 </h3>
 
----
 
 ## 👨‍💻 About Me
 
