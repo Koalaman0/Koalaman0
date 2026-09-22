@@ -75,6 +75,4 @@
 <br/>
 
 
-**독일어과 · AI융합전공** &nbsp; / &nbsp; **SQLD**
-
 <p align="right"><a href="mailto:jiwon0922@gmail.com">jiwon0922@gmail.com</a></p>
