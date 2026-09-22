@@ -74,13 +74,7 @@
 
 <br/>
 
-## Beyond Code
 
 **독일어과 · AI융합전공** &nbsp; / &nbsp; **SQLD**
-
-체코에서 15년을 생활하며 낯선 환경에 적응하는 법을 배웠고,<br/>
-대학 조정부에서 함께 목표를 이루기 위한 꾸준함과 협업을 경험했습니다.
-
-> 오늘의 반복이 내일의 결과를 만든다.
 
 <p align="right"><a href="mailto:jiwon0922@gmail.com">jiwon0922@gmail.com</a></p>
